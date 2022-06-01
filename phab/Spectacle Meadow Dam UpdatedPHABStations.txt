@@ -1,0 +1,11 @@
+long	lat	ident	comment
+-72.6210757323128	41.4466080185572	A	Spectacle Meadow Dam Updated
+-72.6193741609572	41.4481534054314	B	Spectacle Meadow Dam Updated
+-72.6189685821634	41.4479683017194	C	Spectacle Meadow Dam Updated
+-72.6199536194713	41.4463620183149	D	Spectacle Meadow Dam Updated
+-72.6204677096642	41.4444941964885	E	Spectacle Meadow Dam Updated
+-72.6221864846234	41.443232830691	F	Spectacle Meadow Dam Updated
+-72.6237959845318	41.4419550459707	G	Spectacle Meadow Dam Updated
+-72.6249708802909	41.4427245300046	H	Spectacle Meadow Dam Updated
+-72.6243737254067	41.4442321044338	I	Spectacle Meadow Dam Updated
+-72.6228237281335	41.4458156610021	J	Spectacle Meadow Dam Updated
